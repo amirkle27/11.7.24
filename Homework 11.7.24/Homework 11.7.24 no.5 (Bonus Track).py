@@ -1,6 +1,3 @@
-
-
-
 IQ=0
 totalIQ: int = 0
 students: int = 0
