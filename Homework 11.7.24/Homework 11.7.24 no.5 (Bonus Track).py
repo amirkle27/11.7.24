@@ -10,7 +10,6 @@ while True:
     students: int = students+1
     if IQ<30 or IQ>300:
         break
-
 avg: float = totalIQ / students
 print (f"we had {students} students in total")
 print (f"The total IQ is {totalIQ}");
